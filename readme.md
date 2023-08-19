@@ -1,10 +1,25 @@
 # ROFusion: Efficient Object Detection using Hybrid Point-wise Radar-Optical Fusion
 
-![network2](./doc/network.svg)
+![network](./doc/network.png)
 
 ## Overview
 
-[toc]
+- [ROFusion: Efficient Object Detection using Hybrid Point-wise Radar-Optical Fusion](#rofusion-efficient-object-detection-using-hybrid-point-wise-radar-optical-fusion)
+  - [Overview](#overview)
+  - [Changelog](#changelog)
+  - [Introduction](#introduction)
+    - [Demo](#demo)
+    - [Pre-trained models](#pre-trained-models)
+    - [Citation](#citation)
+  - [Dataset Preparation](#dataset-preparation)
+  - [Installation](#installation)
+    - [Requirements](#requirements)
+    - [Installation](#installation-1)
+  - [Usage](#usage)
+    - [Train a mode](#train-a-mode)
+    - [Test and evaluation the pretrained model](#test-and-evaluation-the-pretrained-model)
+  - [Acknowledgements](#acknowledgements)
+  - [License](#license)
 
 ## Changelog
 
